@@ -427,7 +427,7 @@ C 16300 6100 1 90 0 switch-pushbutton-no-1.sym
 T 16000 6800 5 10 1 1 0 7 1
 refdes=S1
 T 15700 6500 5 10 0 0 90 0 1
-device=SWITCH_PUSHBUTTON_NO
+device=FSM4JSMA
 }
 C 16200 5800 1 0 0 gnd-1.sym
 C 18100 9900 1 90 1 res-pack4-1.sym
